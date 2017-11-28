@@ -1,0 +1,7 @@
+node_modules/
+vendor/
+composer.lock
+mix-manifest.json
+npm-debug.log
+webpack.mix.js
+yarn.lock
