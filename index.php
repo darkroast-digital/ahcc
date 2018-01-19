@@ -161,7 +161,7 @@
                     <img src="assets/img/amxrayslide.jpg" alt="Amherstburg x-ray & ultrasound. Coming soon." draggable="false">
                 </div>
                 <div class="slide">
-                    <img src="assets/img/nowleasingslide.png" alt="Now Leasing. Unit Available - 1500 sq. ft. Medical Facility. Click for more information." draggable="false">
+                    <a href="http://www.faragomedicine.com/" target="_blank"><img src="assets/img/faragoslide.jpg" alt="Dr. Peter J. Farago, MD. Addiction Medicine-Opiate Management. Click to visit website." draggable="false"></a>
                 </div>
             </div>
         </div>
