@@ -157,9 +157,9 @@
                 <div class="slide">
                     <img src="assets/img/amwalkinclinicslide.jpg" alt="Amherstburg walk-in clinic & family practice. Coming soon." draggable="false">
                 </div>
-                <div class="slide">
+                <!-- <div class="slide">
                     <a href="http://wraclinics.ca/" target="_blank"><img src="assets/img/wraslide.jpg" alt="Windsor Radiological Associates (WRA) X-Ray Clinics - Quality is our focus. X-Ray Available Feb. 1, Ultrasound Coming Soon. Click to visit website" draggable="false"></a>
-                </div>
+                </div> -->
                 <div class="slide">
                     <a href="http://www.faragomedicine.com/" target="_blank"><img src="assets/img/faragoslide.jpg" alt="Dr. Peter J. Farago, MD. Addiction Medicine-Opiate Management. Click to visit website." draggable="false"></a>
                 </div>
